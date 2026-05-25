@@ -56,5 +56,4 @@ Businesses need to identify high-value customers and customers at risk of churn.
 ## Business Impact
 This dashboard helps businesses improve customer retention, identify revenue-driving customers, and plan targeted marketing campaigns.
 
-## Resume Line
-Built an SAP Analytics Cloud dashboard performing RFM-based customer segmentation to identify VIP, Loyal, Potential, At Risk, and Lost customers, enabling customer retention and revenue optimization.
+s
