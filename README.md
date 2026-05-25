@@ -1,6 +1,6 @@
 
 # SAP SAC Customer Segmentation using RFM Analysis
-Customer Segmentation Using RFM Analysis in SAP Analytics Clou
+Customer Segmentation Using RFM Analysis in SAP Analytics Cloud
 
 ## Project Overview
 This project performs customer segmentation using RFM analysis in SAP Analytics Cloud. The goal is to classify customers into VIP, Loyal, Potential, At Risk, and Lost segments based on recency, frequency, and monetary value.
