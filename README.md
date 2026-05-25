@@ -43,7 +43,7 @@ Businesses need to identify high-value customers and customers at risk of churn.
 ![Overview](screenshots/page1_overview.png)
 
 ### Customer Segment Table
-![Customer Table](screenshots/page2_customer_table.png)
+<img width="1113" height="517" alt="image" src="https://github.com/user-attachments/assets/12485a53-9427-46ba-928e-960df0d9b608" />
 
 ### Revenue and Profit Analysis
 ![Revenue Profit](screenshots/page3_revenue_profit.png)
